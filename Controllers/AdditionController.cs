@@ -21,3 +21,5 @@ namespace AdditionApp.Controllers
         }
      }
 }
+//Controller and view architecture only
+
