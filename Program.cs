@@ -28,7 +28,7 @@ namespace AdditionApp
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Addition}/{action=Index}/{id?}");
+                pattern: "{controller=SI}/{action=Index}/{id?}");
 
             app.Run();
         }
